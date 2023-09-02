@@ -9,7 +9,7 @@ This E-Commerce website is a modern and user-friendly platform for online shoppi
 ## Demo
 
 You can check out a live demo of the website.
-[here]([https://totalitycorp-frontend-challenge-eta-sage.vercel.app/]).
+[here](https://totalitycorp-frontend-challenge-eta-sage.vercel.app/).
 
 ## Features
 
