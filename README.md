@@ -4,7 +4,7 @@ Welcome to our E-Commerce website built with React!
 
 ## About the Project
 
-This E-Commerce website is a modern and user-friendly platform for online shopping. It provides an enjoyable shopping experience with a wide range of products and easy navigation. The project is built using React, making it highly responsive and efficient.
+This E-Commerce website is a modern and user-friendly platform for online shopping. It provides an enjoyable shopping experience with a wide range of products and easy navigation. The project is built using React, making it highly responsive and efficient. I have also used React tool kit for cart management.
 
 ## Demo
 
