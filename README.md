@@ -12,6 +12,6 @@ You can check out a live demo of the website [here]([https://your-demo-link.com]
 
 ## Features
 
-- User-https://totalitycorp-frontend-challenge-eta-sage.vercel.app/friendly product catalog
+- User-friendly product catalog
 - Shopping cart with item management
 - Sort and filter
