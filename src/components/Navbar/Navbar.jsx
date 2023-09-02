@@ -11,7 +11,7 @@ const Navbar = () => {
       <div className="container mx-auto">
         <div className="flex justify-between items-center">
           <ul className="text-white font-semibold text-lg">
-            <Link to="/" className="text-white">E-Commerce</Link>
+            <Link to="/" className="text-white">totalitycorp-frontend-challenge</Link>
           </ul>
           <ul className="flex space-x-4">
             <li><Link to="/cart" className="text-white"><CartIcon cartLength={cart.length} /></Link></li>
